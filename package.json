@@ -1,8 +1,8 @@
 {
   "name": "rubick-vue-plugin-template",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
+    "watch": "vue-cli-service build --watch --no-clean",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
